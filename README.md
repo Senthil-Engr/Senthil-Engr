@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Senthil Kumaran
-- 👀 I’m interested in FullStack WebDevelopment  
-- 🌱 I’m currently learning MERN Stack
+- 👀 interested in FullStack WebDevelopment  
+- 🌱 currently learning MERN Stack
 - 📫 reach me @hacksenlee@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coding because adulting is hard
